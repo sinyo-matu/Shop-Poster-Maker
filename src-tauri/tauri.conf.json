@@ -54,7 +54,7 @@
     "windows": [
       {
         "title": "Shop Poster Maker",
-        "width": 1200,
+        "width": 1400,
         "height": 900,
         "resizable": true,
         "fullscreen": false

@@ -16,14 +16,14 @@ function App() {
 }
 
 const Wrapper = styled.div`
-  min-height: 100vh;
-  display: grid;
-  overflow-y: auto;
-  grid-template-columns: 6fr 4fr;
+  height: 100vh;
   scrollbar-width: none;
+  overflow-y: auto;
   &::-webkit-scrollbar {
     display: none;
   }
+  display: grid;
+  grid-template-columns: 6fr 4fr;
 `;
 
 const CanvasWrapper = styled.div`

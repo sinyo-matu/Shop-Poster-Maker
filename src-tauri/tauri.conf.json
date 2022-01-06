@@ -1,7 +1,7 @@
 {
   "package": {
-    "productName": "Shop Poster Maker",
-    "version": "0.1.1"
+    "productName": "PH海报生成器",
+    "version": "0.1.2"
   },
   "build": {
     "distDir": "../build",
